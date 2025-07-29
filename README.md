@@ -1,5 +1,4 @@
 # Student Performance Prediction
-
 This project uses machine learning to predict student performance based on various features (demographics, grades, etc.).
 
 ## Project Structure
